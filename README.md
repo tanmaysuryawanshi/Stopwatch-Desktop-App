@@ -1,5 +1,5 @@
 ## Stopwatch-Desktop-App
-an stopwatch app for desktop
+an stopwatch app for desktop 
 build with Compose Multiplatform
 
 ## Screenshot
